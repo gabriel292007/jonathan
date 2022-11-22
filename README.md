@@ -35,7 +35,7 @@
 
 
 <!--
-**lilianhteixeira/lilianhteixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gabriel292007/jonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
  <!-- Abaixo, duas imagens com informações do repositório A+ e etc. -->
 <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lilianhteixeira&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Lílian Teixeira github stats" /> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabriel292007_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="gabriel292007" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilianhteixeira&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" /> 
 </div> 
  
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 <!-- badges, com trofeu --> 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lilianhteixeira&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gabriel292007&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p> 
 
  <!-- redes sociais e profissional -->
